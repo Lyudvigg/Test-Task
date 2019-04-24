@@ -1,5 +1,5 @@
-/*=================wow============*/
-new WOW().init();
+/*========Animate==========*/
+AOS.init();
 
 /*=======Phone Mask=======*/
 const element = document.getElementById('phone-mask');
